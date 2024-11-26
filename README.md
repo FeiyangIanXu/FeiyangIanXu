@@ -2,7 +2,7 @@
 - 👀 I’m interested in finance, machine learning, time series analysis, and developing innovative solutions for forecasting and data-driven decision-making.  
 - 🌱 I’m currently learning advanced deep learning techniques for predicting realized volatility in financial markets using transformer models.  
 - 💞️ I’m looking to collaborate on projects related to financial computing, econometrics, and machine learning.  
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/feiyang-ian-xu/) or email me at feiyang.xu@sdstate.edu.  
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/feiyang-ian-xu/) or email me at feiyang.xu@jacks.sdstate.edu.  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy playing the guitar, listening to Citypop music, and exploring creative ways to integrate finance with technology.  
 
